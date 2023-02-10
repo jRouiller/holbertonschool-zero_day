@@ -1,2 +1,6 @@
 #!/bit/bash
+<<<<<<< HEAD
 echo "school"
+=======
+echo "The school is open!"
+>>>>>>> update_script
